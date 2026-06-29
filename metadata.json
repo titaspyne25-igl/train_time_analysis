@@ -1,0 +1,6 @@
+{
+  "name": "Train Operations Dashboard",
+  "description": "An interactive, high-fidelity train operations and logistics analytics platform with real-time tracking, congestion heatmaps, fleet telemetry, and predictive maintenance schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
